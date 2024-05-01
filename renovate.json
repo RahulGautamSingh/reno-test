@@ -6,5 +6,6 @@
       "matchPackageNames": ["dotnet-sdk"],
       "versioning": "same-major"
     }
-  ]
+  ],
+  "rangeStrategy": "replace"
 }
